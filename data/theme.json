@@ -1,0 +1,13 @@
+[
+    {
+        "title": "Mirror",
+        "thumnail": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/mirror.png",
+        "background_image": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/angkor.jpg",
+        "background_color": "#ffffff",
+        "isDark": false,
+        "blur": 5,
+        "calendar_background": "#ffffff",
+        "calendar_opacity": 0.5,
+        "type": "sqaure"
+    }
+]
