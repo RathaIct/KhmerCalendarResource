@@ -2,7 +2,7 @@
     {
         "title": "Mirror",
         "thumnail": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/thumnail/mirror.png",
-        "background_image": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/thumnail/angkor.jpg",
+        "background_image": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/background/angkor.jpg",
         "background_color": "#ffffff",
         "isDark": false,
         "blur": 5,
