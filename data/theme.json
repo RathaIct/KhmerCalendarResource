@@ -58,5 +58,20 @@
         "backgroundColorOpacity": 1.0,
         "calendarBackgroundOpacity": 0.3,
         "is_selected": false
+    },
+    {
+        "id": 5,
+        "title": "ពេលយប់",
+        "thumbnail": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/thumnail/mirror.png",
+        "background_image": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/background/night.jpg",
+        "background_color": "#FF181818",
+        "isDark": true,
+        "blur": 0.0,
+        "calendar_blur": 0.0,
+        "calendar_background": "#FF1F1F1F",
+        "type": "circle",
+        "backgroundColorOpacity": 0.1,
+        "calendarBackgroundOpacity": 0.3,
+        "is_selected": false
     }
 ]
