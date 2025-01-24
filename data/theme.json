@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "ស្រអាប់",
-        "thumbnail": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/thumnail/mirror.png",
+        "thumbnail": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/thumnail/blur.png",
         "background_image": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/background/blur.jpg",
         "background_color": "#FFD3D8DA",
         "isDark": false,
