@@ -32,7 +32,7 @@
     {
         "id": 3,
         "title": "ភ្លឺ",
-        "thumbnail": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/thumnail/mirror.png",
+        "thumbnail": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/thumnail/light.png",
         "background_image": "",
         "background_color": "#FFD3D8DA",
         "isDark": false,
@@ -47,7 +47,7 @@
     {
         "id": 4,
         "title": "ងងឹត",
-        "thumbnail": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/thumnail/mirror.png",
+        "thumbnail": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/thumnail/dark.png",
         "background_image": "",
         "background_color": "#FF181818",
         "isDark": true,
@@ -62,16 +62,16 @@
     {
         "id": 5,
         "title": "ពេលយប់",
-        "thumbnail": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/thumnail/mirror.png",
+        "thumbnail": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/thumnail/night.png",
         "background_image": "https://raw.githubusercontent.com/RathaIct/KhmerCalendarResource/main/images/background/night.jpg",
         "background_color": "#FF181818",
         "isDark": true,
         "blur": 0.0,
         "calendar_blur": 0.0,
         "calendar_background": "#FF1F1F1F",
-        "type": "circle",
-        "backgroundColorOpacity": 0.1,
-        "calendarBackgroundOpacity": 0.3,
+        "type": "leaf",
+        "backgroundColorOpacity": 0.0,
+        "calendarBackgroundOpacity": 0.5,
         "is_selected": false
     }
 ]
